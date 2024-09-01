@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const apiKey = '33c0e8d86ed5af0d833de610364d7060'; 
+const apiKey = 'ba24c50697d38565a339040d9ba7d871'; // Înlocuiește cu cheia ta API
 const baseUrl = 'https://api.themoviedb.org/3';
 
 export const fetchMovieDetails = async movieId => {
